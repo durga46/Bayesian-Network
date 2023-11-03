@@ -1,4 +1,4 @@
-# EXP-01
+# EXP:01
 # Implementation of Bayesian-Network
 
 ## Aim :
